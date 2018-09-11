@@ -101,7 +101,9 @@ public class Source
     }
     
     /**
+     * returns the largest sum of 13 adjacent numbers in the 1000 digit number
      * 
+     * @return the largest sum of 13 adjacent numbers in the 1000 digit number
      */
     public static long adj13(){
         ArrayList<Integer> all = new ArrayList<Integer>();

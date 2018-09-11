@@ -1,8 +1,8 @@
 #BlueJ class context
 comment0.target=Source
 comment0.text=\r\n\ Write\ a\ description\ of\ class\ Source\ here.\r\n\r\n\ @author\ Blake\ Mitrick\r\n\ @version\ v8.24.18\r\n
-comment1.params=
-comment1.target=void\ main()
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
 comment2.params=upUntil
 comment2.target=int\ threeFiveSums(int)
 comment2.text=\r\n\ counts\ the\ sum\ of\ all\ multiples\ of\ 3\ and\ 5\ up\ to\ a\ given\ point\r\n\ \r\n\ @param\ upUntil\ the\ number\ it\ checks\ the\ multiples\ up\ to\r\n\ \r\n\ @return\ \r\n
@@ -15,4 +15,13 @@ comment4.text=\r\n\ calculates\ the\ fibonacci\ sequence\ up\ until\ a\ given\ p
 comment5.params=n
 comment5.target=int\ fibonacci(int)
 comment5.text=\r\n\ calculates\ the\ number\ in\ the\ fib\ sequence\r\n\ \r\n\ @param\ n\ the\ term\ of\ the\ sequence\ \r\n\ \r\n\ @return\ the\ nth\ term\ in\ the\ fib\ sequence\r\n
-numComments=6
+comment6.params=
+comment6.target=long\ adj13()
+comment6.text=\r\n\ \r\n
+comment7.params=n
+comment7.target=boolean\ isPrime(int)
+comment7.text=\r\n\ A\ function\ that\ detrmines\ if\ a\ number\ is\ prime\r\n\ \r\n\ @param\ n\ \ \ \ \ number\ to\ test\r\n\ @return\ \ \ \ \ \ true\ if\ number\ is\ prime,\ false\ otherwise\r\n
+comment8.params=end
+comment8.target=long\ primeSum(int)
+comment8.text=\r\n\ returns\ the\ sum\ of\ all\ the\ prime\ numbers\ to\ a\ given\ end\r\n\ \r\n\ @param\ end\ the\ point\ at\ which\ the\ the\ user\ want\ it\ to\ stop\ counting\ the\ primes\ \r\n\ \r\n\ @return\ the\ sum\ of\ all\ the\ prime\ numbers\ to\ a\ given\ end\r\n
+numComments=9
